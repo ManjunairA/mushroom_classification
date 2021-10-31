@@ -1,4 +1,4 @@
-# mushrrom_classification
+# mushrrom_classification is one of the delegent problem in  food processing. I am used ANN, SVC,Naive bayes, Decision tree, Random forest and logistic regression algorithms for classsifying the mushrroms.
 Data Description
 This dataset describes mushrooms in terms of their physical characteristics. They are classified into: poisonous or edible.
 
