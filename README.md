@@ -2,6 +2,7 @@
 Data Description
 This dataset describes mushrooms in terms of their physical characteristics. They are classified into: poisonous or edible.
 
+
 1. cap-shape: bell=b,conical=c,convex=x,flat=f, knobbed=k,sunken=s 
 2. cap-surface: fibrous=f,grooves=g,scaly=y,smooth=s 
 3. cap-color: brown=n,buff=b,cinnamon=c,gray=g,green=r, pink=p,purple=u,red=e,white=w,yellow=y 
